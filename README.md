@@ -218,6 +218,12 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <a name="pose_estimation" />
 
 ## 3D Pose Estimation
+<b>ShAPO: Implicit Representations for Multi-Object Shape, Appearance and Pose Optimization (ECCV 2022)</b> [[Paper]](https://arxiv.org/pdf/2207.13691) [[Webpage]](https://zubair-irshad.github.io/projects/ShAPO.html)
+<p align="center"><img width="50%" src="https://github.com/zubair-irshad/shapo/blob/master/demo/mesh_models.png" /></p>
+
+<b>CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation (ICRA 2022)</b> [[Paper]](https://arxiv.org/pdf/2203.01929) [[Webpage]](https://zubair-irshad.github.io/projects/CenterSnap.html)
+<p align="center"><img width="50%" src="https://github.com/zubair-irshad/CenterSnap/blob/master/demo/Pose_CS.gif" /></p>
+
 <b>Category-Specific Object Reconstruction from a Single Image (2014)</b> [[Paper]](https://people.eecs.berkeley.edu/~akar/categoryshapes.pdf)
 <p align="center"><img width="50%" src="http://people.eecs.berkeley.edu/~akar/basisshapes_highres.png" /></p>
 
@@ -412,6 +418,10 @@ This work introduce ScanObjectNN, a new real-world point cloud object dataset ba
 <a name="segmentation" />
 
 ## Scene/Object Semantic Segmentation
+
+<b>NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields(ECCV 2024)</b> [[Paper]](https://arxiv.org/pdf/2404.01300.pdf) [[Webpage]](https://nerf-mae.github.io/)
+<p align="center"><img width="50%" src="https://github.com/zubair-irshad/NeRF-MAE/blob/main/demo/nerf-mae_teaser.jpeg" /></p>
+
 <b>Learning 3D Mesh Segmentation and Labeling (2010)</b> [[Paper]](https://people.cs.umass.edu/~kalo/papers/LabelMeshes/LabelMeshes.pdf)
 <p align="center"><img width="50%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0bf390e2a14f74bcc8838d5fb1c0c4cc60e92eb7/7-Figure7-1.png" /></p>
 
